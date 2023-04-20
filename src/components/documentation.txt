@@ -1,0 +1,18 @@
+--NOTES--
+
+
+
+
+--ROADMAP--
+1- Create Template With HTML5 , Bootstrap5 : JSX
+2- Create Components : Form And Table
+3- Install Bootstrap5
+4- Use Local Storage :
+5- Function To Add Passenger
+6- Fetch Added Data In Table
+7- Function Delete One Passenger
+8- Function Delete All Passengers
+9- Use SweetAlert : SweetAlert2 When You Add - Delete One - Delete All
+10- Add Condition : * Add Item : all inputs required | * Delete All Items : items are exists
+
+
